@@ -32,7 +32,7 @@
 
 ### **数据准备**
 
-一、`data_clean_3.ipynb`
+一、`data_clean_3.py`
 
 1.用langchain加载pdf
 
@@ -42,7 +42,7 @@
 
 4.再次进行清洗，输出json文件
 
-二、`json_to_chunk.ipynb`
+二、`json_to_chunk.py`
 
 1.将内容、子项等组合成完整内容
 
@@ -52,7 +52,7 @@
 
 4.输出分割后的json文件
 
-三、`chunk_to_embedding.ipynb`
+三、`chunk_to_embedding.py`
 
 1.接入通义文本向量模型用于向量化（text-embedding-v1）
 
