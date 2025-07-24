@@ -92,8 +92,7 @@ streamlit run "你的rag_chatbot_6.py的路径"
 
 ## 结果示例
 
-<img src="E:\py_vscode_project\RAG_rule_chatrobot\img\回答示例.png" style="zoom: 50%;" />
-
+<img src="img/回答示例.png" style="zoom: 50%;" />
 其他示例见项目文件夹data和vidoes
 
 ## 运用的模型
